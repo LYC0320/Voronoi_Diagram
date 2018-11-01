@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\cxl\documents\visual studio 2015\projects\voronoidiagram\voronoidiagram\source.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\cxl\documents\visual studio 2015\projects\voronoidiagram\voronoidiagram\source.cpp(126): warning C4018: '<': signed/unsigned mismatch
+c:\users\cxl\documents\visual studio 2015\projects\voronoidiagram\voronoidiagram\source.cpp(167): warning C4018: '<': signed/unsigned mismatch
+c:\users\cxl\documents\visual studio 2015\projects\voronoidiagram\voronoidiagram\source.cpp(172): warning C4018: '<': signed/unsigned mismatch
+c:\users\cxl\documents\visual studio 2015\projects\voronoidiagram\voronoidiagram\source.cpp(195): warning C4018: '<': signed/unsigned mismatch
+c:\users\cxl\documents\visual studio 2015\projects\voronoidiagram\voronoidiagram\source.cpp(205): warning C4018: '<': signed/unsigned mismatch
+c:\users\cxl\documents\visual studio 2015\projects\voronoidiagram\voronoidiagram\source.cpp(225): warning C4018: '<': signed/unsigned mismatch
+c:\users\cxl\documents\visual studio 2015\projects\voronoidiagram\voronoidiagram\source.cpp(235): warning C4018: '<': signed/unsigned mismatch
+  VoronoiDiagram.vcxproj -> C:\Users\cxl\Documents\Visual Studio 2015\Projects\VoronoiDiagram\Debug\VoronoiDiagram.exe
+  VoronoiDiagram.vcxproj -> C:\Users\cxl\Documents\Visual Studio 2015\Projects\VoronoiDiagram\Debug\VoronoiDiagram.pdb (Full PDB)
